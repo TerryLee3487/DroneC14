@@ -1,0 +1,8 @@
+f n  |  Moves forward by n steps in the current direction. n must be positive.
+b n  |  Moves backward by n steps in the current direction. n must be positive.
+l  |  Turns 90 degrees to the left.
+r  |  Turns 90 degrees to the right.
+c  |  Prints the current status of the drone.
+t  |  Prints the total number of steps walked by the drone.
+m  |  Prints the Manhattan distance of the current position to the origin.
+q  |  Quit the program (or the program also terminates on EOF).
